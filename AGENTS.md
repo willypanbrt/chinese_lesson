@@ -2,10 +2,12 @@
 
 ## Cursor Cloud specific instructions
 
-This repository is **data-only**. It currently contains a single asset:
+This repository is **data-only**. It currently contains these assets:
 
 - `pleco_cards.txt` — a [Pleco](https://www.pleco.com/) flashcard import file with Chinese
-  vocabulary and example sentences.
+ vocabulary and example sentences.
+- `master_translations.txt` — a human-readable companion listing the same scenario
+ sentences (English + Chinese), not in Pleco import format.
 
 There is **no application, source code, package manifest, build system, lint config, test
 suite, or runnable service**. As a result:
