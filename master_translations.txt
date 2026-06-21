@@ -1,0 +1,11 @@
+Scenario Name: The Office Drama
+1. Yesterday at the company, the boss gave me a very crucial task.
+   昨天在公司，老板派给我一个非常关键的任务。
+2. He said to me: "Since you are the most awesome, you must get the work done well today."
+   他对我说：“既然你是最厉害的，你今天必须把工作做好。”
+3. Even if I was very tired, I still worked until 10 PM.
+   即使很累，我也工作到了晚上10点。
+4. Finally, I finished all my work.
+   终于，我把所有的工作都做完了。
+5. Unexpectedly, this morning, my computer was broken by my colleague.
+   今天早上，我的电脑竟然被我的同事弄坏了。
