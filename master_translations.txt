@@ -9,3 +9,15 @@ Scenario Name: The Office Drama
    终于，我把所有的工作都做完了。
 5. Unexpectedly, this morning, my computer was broken by my colleague.
    今天早上，我的电脑竟然被我的同事弄坏了。
+
+Scenario Name: The Job Hunt
+1. Not only do I want to find a new apartment, but I also need to look for a job.
+   我不仅想找一个新公寓，而且还需要找工作。
+2. Yesterday, I sent my resume to that international company.
+   昨天，我把简历寄到那家国际公司去了。
+3. Unexpectedly, the manager called me this morning to invite me to an interview.
+   今天早上，经理竟然打电话邀请我去参加面试。
+4. Even if I am very nervous, I still must prepare well.
+   即使我很紧张，我也必须好好准备。
+5. No matter what the result is, this is a great opportunity.
+   不管结果是什么，这都是一个很好的机会。
