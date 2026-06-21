@@ -9,3 +9,39 @@ Scenario Name: The Office Drama
    终于，我把所有的工作都做完了。
 5. Unexpectedly, this morning, my computer was broken by my colleague.
    今天早上，我的电脑竟然被我的同事弄坏了。
+
+Scenario Name: The Travel Snafu
+1. Next week I am going to fly to Beijing to attend a very important meeting.
+   下周我要飞到北京去参加一个非常重要的会议。
+2. No matter how expensive the ticket is, I always must buy it.
+   不管机票多贵，我都必须买。
+3. But this morning, I unexpectedly lost my passport!
+   但是今天早上，我竟然把护照弄丢了！
+4. I definitely left the passport at home.
+   我肯定把护照忘在家里了。
+5. My plans were completely ruined by this mistake.
+   我的计划被这个错误完全毁了。
+
+Scenario Name: The Bad Roommate
+1. I have already lived in this apartment for two years.
+   我已经在这个公寓住了两年了。
+2. My roommate always leaves dirty dishes in the living room.
+   我的室友总是把脏盘子留在客厅里。
+3. Yesterday, my favorite milk was completely drunk by him.
+   昨天，我最喜欢的牛奶被他喝光了。
+4. Since he doesn't respect me, I then decided to move out next month.
+   既然他不尊重我，我就决定下个月搬出去。
+5. No matter how hard it is to find a new apartment, I must try.
+   不管找新公寓多难，我都要试一试。
+
+Scenario Name: The Job Hunt
+1. Not only do I want to find a new apartment, but I also need to look for a job.
+   我不仅想找一个新公寓，而且还需要找工作。
+2. Yesterday, I sent my resume to that international company.
+   昨天，我把简历寄到那家国际公司去了。
+3. Unexpectedly, the manager called me this morning to invite me to an interview.
+   今天早上，经理竟然给我打电话，邀请我去面试。
+4. Even if I am very nervous, I still must prepare well.
+   即使我很紧张，我也必须好好准备。
+5. No matter what the result is, this is a great opportunity.
+   不管结果是什么，这都是一个很好的机会。

@@ -14,3 +14,59 @@
 即使很累，我也工作到了晚上10点。	Jíshǐ hěn lèi, wǒ yě gōngzuò dào le wǎnshang shí diǎn.	Even if I was very tired, I still worked until 10 PM.
 终于，我把所有的工作都做完了。	Zhōngyú, wǒ bǎ suǒyǒu de gōngzuò dōu zuò wán le.	Finally, I finished all my work.
 今天早上，我的电脑竟然被我的同事弄坏了。	Jīntiān zǎoshang, wǒ de diànnǎo jìngrán bèi wǒ de tóngshì nòng huài le.	Unexpectedly, this morning, my computer was broken by my colleague.
+
+// Cursor/The Travel Snafu/Vocabulary
+机票	jīpiào	Plane ticket
+护照	hùzhào	Passport
+参加	cānjiā	To attend; to participate in
+会议	huìyì	Meeting; conference
+不管	bùguǎn	No matter (Grammar: pairs with 都/也 + a question word, e.g. 多, 什么)
+弄丢	nòngdiū	To lose (something); to misplace
+忘在	wàngzài	To leave behind at (a place) (Pattern: 把 + Object + 忘在 + Place + 了)
+计划	jìhuà	Plan
+毁	huǐ	To ruin; to destroy
+错误	cuòwù	Mistake; error
+
+// Cursor/The Travel Snafu/Master Sentences
+下周我要飞到北京去参加一个非常重要的会议。	Xià zhōu wǒ yào fēi dào Běijīng qù cānjiā yí gè fēicháng zhòngyào de huìyì.	Next week I am going to fly to Beijing to attend a very important meeting.
+不管机票多贵，我都必须买。	Bùguǎn jīpiào duō guì, wǒ dōu bìxū mǎi.	No matter how expensive the ticket is, I always must buy it.
+但是今天早上，我竟然把护照弄丢了！	Dànshì jīntiān zǎoshang, wǒ jìngrán bǎ hùzhào nòng diū le!	But this morning, I unexpectedly lost my passport!
+我肯定把护照忘在家里了。	Wǒ kěndìng bǎ hùzhào wàng zài jiā lǐ le.	I definitely left the passport at home.
+我的计划被这个错误完全毁了。	Wǒ de jìhuà bèi zhège cuòwù wánquán huǐ le.	My plans were completely ruined by this mistake.
+
+// Cursor/The Bad Roommate/Vocabulary
+公寓	gōngyù	Apartment
+室友	shìyǒu	Roommate
+脏	zāng	Dirty
+盘子	pánzi	Plate; dish
+客厅	kètīng	Living room
+牛奶	niúnǎi	Milk
+喝光	hēguāng	To drink up; to finish drinking completely
+尊重	zūnzhòng	To respect
+搬出去	bānchūqù	To move out
+
+// Cursor/The Bad Roommate/Master Sentences
+我已经在这个公寓住了两年了。	Wǒ yǐjīng zài zhège gōngyù zhù le liǎng nián le.	I have already lived in this apartment for two years.
+我的室友总是把脏盘子留在客厅里。	Wǒ de shìyǒu zǒngshì bǎ zāng pánzi liú zài kètīng lǐ.	My roommate always leaves dirty dishes in the living room.
+昨天，我最喜欢的牛奶被他喝光了。	Zuótiān, wǒ zuì xǐhuan de niúnǎi bèi tā hē guāng le.	Yesterday, my favorite milk was completely drunk by him.
+既然他不尊重我，我就决定下个月搬出去。	Jìrán tā bù zūnzhòng wǒ, wǒ jiù juédìng xià gè yuè bān chūqù.	Since he doesn't respect me, I then decided to move out next month.
+不管找新公寓多难，我都要试一试。	Bùguǎn zhǎo xīn gōngyù duō nán, wǒ dōu yào shì yi shì.	No matter how hard it is to find a new apartment, I must try.
+
+// Cursor/The Job Hunt/Vocabulary
+不仅	bùjǐn	Not only (Grammar: pairs with 而且)
+而且	érqiě	Moreover; and also
+寄	jì	To send (by mail/post) (Pattern: 把 + Object + 寄到 + Place + 去)
+国际	guójì	International
+经理	jīnglǐ	Manager
+邀请	yāoqǐng	To invite
+面试	miànshì	(Job) interview
+紧张	jǐnzhāng	Nervous; tense
+结果	jiéguǒ	Result; outcome
+机会	jīhuì	Opportunity; chance
+
+// Cursor/The Job Hunt/Master Sentences
+我不仅想找一个新公寓，而且还需要找工作。	Wǒ bùjǐn xiǎng zhǎo yí gè xīn gōngyù, érqiě hái xūyào zhǎo gōngzuò.	Not only do I want to find a new apartment, but I also need to look for a job.
+昨天，我把简历寄到那家国际公司去了。	Zuótiān, wǒ bǎ jiǎnlì jì dào nà jiā guójì gōngsī qù le.	Yesterday, I sent my resume to that international company.
+今天早上，经理竟然给我打电话，邀请我去面试。	Jīntiān zǎoshang, jīnglǐ jìngrán gěi wǒ dǎ diànhuà, yāoqǐng wǒ qù miànshì.	Unexpectedly, the manager called me this morning to invite me to an interview.
+即使我很紧张，我也必须好好准备。	Jíshǐ wǒ hěn jǐnzhāng, wǒ yě bìxū hǎohāo zhǔnbèi.	Even if I am very nervous, I still must prepare well.
+不管结果是什么，这都是一个很好的机会。	Bùguǎn jiéguǒ shì shénme, zhè dōu shì yí gè hěn hǎo de jīhuì.	No matter what the result is, this is a great opportunity.
