@@ -72,3 +72,27 @@
 今天早上，经理竟然打电话邀请我去参加面试。	Jīntiān zǎoshang, jīnglǐ jìngrán dǎ diànhuà yāoqǐng wǒ qù cānjiā miànshì.	Unexpectedly, the manager called me this morning to invite me to an interview.
 即使我很紧张，我也必须好好准备。	Jíshǐ wǒ hěn jǐnzhāng, wǒ yě bìxū hǎohāo zhǔnbèi.	Even if I am very nervous, I still must prepare well.
 不管结果是什么，这都是一个很好的机会。	Bùguǎn jiéguǒ shì shénme, zhè dōu shì yí gè hěn hǎo de jīhuì.	No matter what the result is, this is a great opportunity.
+
+// Cursor/The Online Shopping Fail/Vocabulary
+打折	dǎzhé	To be on sale; to give a discount (verb) (Context: 这家店在打折。)
+折扣	zhékòu	Discount (noun) (Context: 因为折扣很大，我忍不住买了很多衣服。)
+忍不住	rěnbuzhù	Can't help but; can't resist (Context: 我忍不住在网上买了很多衣服。)
+包裹	bāoguǒ	Package; parcel
+送到	sòngdào	To deliver to; to arrive at (Context: 包裹会在三天之内送到。)
+送错	sòngcuò	To deliver to the wrong place (Context: 快递员把我的包裹送错了地址。)
+物流	wùliú	Logistics; shipping
+状态	zhuàngtài	Status; state (Context: 物流状态一直没变。)
+查看	chákàn	To check; to look over (Context: 不管我查看多少次...)
+调查	diàochá	To investigate; to conduct a survey (Formal — for casually checking a parcel use 查看/查, NOT 调查)
+快递员	kuàidìyuán	Courier; delivery person
+地址	dìzhǐ	Address
+换	huàn	To exchange; to swap; to replace (e.g. 换货 = exchange goods; NOT 变 "to change state")
+退款	tuìkuǎn	To refund; a refund (Context: 卖家最后给我退款了。)
+浪费	làngfèi	To waste (Context: 我已经浪费了一整个下午。)
+
+// Cursor/The Online Shopping Fail/Master Sentences
+上个星期，因为折扣很大，所以我忍不住在网上买了很多衣服。	Shàng gè xīngqī, yīnwèi zhékòu hěn dà, suǒyǐ wǒ rěnbuzhù zài wǎngshàng mǎi le hěn duō yīfu.	Last week, because the discount was huge, I couldn't resist buying a lot of clothes online.
+我本来以为包裹会在三天之内送到。	Wǒ běnlái yǐwéi bāoguǒ huì zài sān tiān zhī nèi sòngdào.	I originally assumed the package would be delivered within three days.
+但是，不管我查看多少次，物流状态都一直没变。	Dànshì, bùguǎn wǒ chákàn duōshǎo cì, wùliú zhuàngtài dōu yìzhí méi biàn.	But no matter how many times I checked, the delivery status never changed.
+快递员竟然把我的包裹送错了地址。	Kuàidìyuán jìngrán bǎ wǒ de bāoguǒ sòngcuò le dìzhǐ.	Unexpectedly, the courier left my package at the wrong address. (Alt: 快递员竟然把我的包裹留在了错的地址。)
+虽然卖家最后给我退款了，但是我已经浪费了一整个下午。	Suīrán màijiā zuìhòu gěi wǒ tuìkuǎn le, dànshì wǒ yǐjīng làngfèi le yí zhěnggè xiàwǔ.	Although the shop refunded me in the end, I had already wasted a whole afternoon.

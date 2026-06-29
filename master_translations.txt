@@ -45,3 +45,16 @@ Scenario Name: The Job Hunt
    即使我很紧张，我也必须好好准备。
 5. No matter what the result is, this is a great opportunity.
    不管结果是什么，这都是一个很好的机会。
+
+Scenario Name: The Online Shopping Fail
+1. Last week, because the discount was huge, I couldn't resist buying a lot of clothes online.
+   上个星期，因为折扣很大，所以我忍不住在网上买了很多衣服。
+2. I originally assumed the package would be delivered within three days.
+   我本来以为包裹会在三天之内送到。
+3. But no matter how many times I checked, the delivery status never changed.
+   但是，不管我查看多少次，物流状态都一直没变。
+4. Unexpectedly, the courier left my package at the wrong address.
+   快递员竟然把我的包裹送错了地址。
+   (Alt: 快递员竟然把我的包裹留在了错的地址。)
+5. Although the shop refunded me in the end, I had already wasted a whole afternoon.
+   虽然卖家最后给我退款了，但是我已经浪费了一整个下午。
