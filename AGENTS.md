@@ -78,8 +78,12 @@ Log the 5 finalized sentences from the scenario in a clean, human-readable forma
   Scenario Name: [Name]
   1. English Sentence
      Chinese Translation
+     Pinyin (full sentence, tone marks — **required** so the learner can read the archive without guessing)
   2. English Sentence
-     Chinese Translation...
+     Chinese Translation
+     Pinyin
+     ...
+* When listing vocabulary inline during a session or in curation, **every** suggested hard/new word must include pinyin (`Hanzi · Pinyin · English`). Never give hanzi-only for words above the learner's comfort level.
 
 #### File 2: `pleco_cards.txt` (The Flashcard Import File)
 Output the final curated vocabulary and sentences as a **Tab-Separated Value (TSV) UTF-8 plain text** block. Use Pleco’s category header syntax (`// `) to ensure seamless automatic sorting into subfolders upon import.

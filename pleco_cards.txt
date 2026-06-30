@@ -96,3 +96,20 @@
 但是，不管我查看多少次，物流状态都一直没变。	Dànshì, bùguǎn wǒ chákàn duōshǎo cì, wùliú zhuàngtài dōu yìzhí méi biàn.	But no matter how many times I checked, the delivery status never changed.
 快递员竟然把我的包裹送错了地址。	Kuàidìyuán jìngrán bǎ wǒ de bāoguǒ sòngcuò le dìzhǐ.	Unexpectedly, the courier left my package at the wrong address. (Alt: 快递员竟然把我的包裹留在了错的地址。)
 虽然卖家最后给我退款了，但是我已经浪费了一整个下午。	Suīrán màijiā zuìhòu gěi wǒ tuìkuǎn le, dànshì wǒ yǐjīng làngfèi le yí zhěnggè xiàwǔ.	Although the shop refunded me in the end, I had already wasted a whole afternoon.
+
+// Cursor/The Forgotten Umbrella/Vocabulary
+天空	tiānkōng	Sky (Context: 我刚一走出公司，就发现天空完全变灰了。)
+灰	huī	Gray (Context: 天空完全变灰了。)
+雨伞	yǔsǎn	Umbrella (Context: 但是没找到雨伞。)
+翻	fān	To flip through; to turn over (Context: 我把书包翻了一遍。)
+只好	zhǐhǎo	To have no choice but to (Context: 既然已经下雨了，我只好跑回公司。)
+办公桌	bàngōngzhuō	Office desk (Context: 回到办公桌前，我发现同事误把我的雨伞带回家了。)
+误	wù	By mistake; erroneously (Context: 同事误把我的雨伞带回家了。)
+烦	fán	Annoyed; bothered (Context: 虽然我很烦，但是我决定明天再请她把雨伞带回来。)
+
+// Cursor/The Forgotten Umbrella/Master Sentences
+我刚一走出公司，就发现天空完全变灰了。	Wǒ gāng yī zǒu chū gōngsī, jiù fāxiàn tiānkōng wánquán biàn huī le.	As soon as I stepped out of the company, I noticed the sky had turned completely gray.
+我把书包翻了一遍，但是没找到雨伞。	Wǒ bǎ shūbāo fān le yí biàn, dànshì méi zhǎodào yǔsǎn.	I searched through my bag, but I couldn't find my umbrella.
+既然已经下雨了，我只好跑回公司。	Jìrán yǐjīng xià yǔ le, wǒ zhǐhǎo pǎo huí gōngsī.	Since it was already raining, I had no choice but to run back to the office.
+回到办公桌前，我发现同事误把我的雨伞带回家了。	Huí dào bàngōngzhuō qián, wǒ fāxiàn tóngshì wù bǎ wǒ de yǔsǎn dài huí jiā le.	When I got back to my desk, I discovered my colleague had taken my umbrella home by mistake.
+虽然我很烦，但是我决定明天再请她把雨伞带回来。	Suīrán wǒ hěn fán, dànshì wǒ juédìng míngtiān zài qǐng tā bǎ yǔsǎn dài huílái.	Although I was annoyed, I decided to wait until tomorrow and ask her to bring it back.
