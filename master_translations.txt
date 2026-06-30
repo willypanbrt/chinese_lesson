@@ -58,3 +58,20 @@ Scenario Name: The Online Shopping Fail
    (Alt: 快递员竟然把我的包裹留在了错的地址。)
 5. Although the shop refunded me in the end, I had already wasted a whole afternoon.
    虽然卖家最后给我退款了，但是我已经浪费了一整个下午。
+
+Scenario Name: The Forgotten Umbrella
+1. As soon as I stepped out of the company, I noticed the sky had turned completely gray.
+   我刚一走出公司，就发现天空完全变灰了。
+   Wǒ gāng yī zǒu chū gōngsī, jiù fāxiàn tiānkōng wánquán biàn huī le.
+2. I searched through my bag, but I couldn't find my umbrella.
+   我把书包翻了一遍，但是没找到雨伞。
+   Wǒ bǎ shūbāo fān le yí biàn, dànshì méi zhǎodào yǔsǎn.
+3. Since it was already raining, I had no choice but to run back to the office.
+   既然已经下雨了，我只好跑回公司。
+   Jìrán yǐjīng xià yǔ le, wǒ zhǐhǎo pǎo huí gōngsī.
+4. When I got back to my desk, I discovered my colleague had taken my umbrella home by mistake.
+   回到办公桌前，我发现同事误把我的雨伞带回家了。
+   Huí dào bàngōngzhuō qián, wǒ fāxiàn tóngshì wù bǎ wǒ de yǔsǎn dài huí jiā le.
+5. Although I was annoyed, I decided to wait until tomorrow and ask her to bring it back.
+   虽然我很烦，但是我决定明天再请她把雨伞带回来。
+   Suīrán wǒ hěn fán, dànshì wǒ juédìng míngtiān zài qǐng tā bǎ yǔsǎn dài huílái.
