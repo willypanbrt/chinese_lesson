@@ -58,3 +58,15 @@ Scenario Name: The Online Shopping Fail
    (Alt: 快递员竟然把我的包裹留在了错的地址。)
 5. Although the shop refunded me in the end, I had already wasted a whole afternoon.
    虽然卖家最后给我退款了，但是我已经浪费了一整个下午。
+
+Scenario Name: The Group Project
+1. For this semester's most important project, the teacher divided us into groups of four.
+   这学期，为了最重要的项目，老师把我们分成了几个四人小组。
+2. At the beginning, one classmate not only didn't help, but also often showed up late.
+   开始的时候，有一个同学不但不帮忙，还经常迟到。
+3. As the deadline got closer and closer, I became more and more worried.
+   截止日期越来越近，我也越来越担心。
+4. In the end, I had no choice but to stay up late and finish his part too.
+   最后，我只好熬夜把他的部分也完成了。
+5. Although the process was exhausting, our project unexpectedly got the highest score.
+   虽然过程很辛苦，但是我们的项目竟然得到了最高分。

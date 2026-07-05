@@ -96,3 +96,33 @@
 但是，不管我查看多少次，物流状态都一直没变。	Dànshì, bùguǎn wǒ chákàn duōshǎo cì, wùliú zhuàngtài dōu yìzhí méi biàn.	But no matter how many times I checked, the delivery status never changed.
 快递员竟然把我的包裹送错了地址。	Kuàidìyuán jìngrán bǎ wǒ de bāoguǒ sòngcuò le dìzhǐ.	Unexpectedly, the courier left my package at the wrong address. (Alt: 快递员竟然把我的包裹留在了错的地址。)
 虽然卖家最后给我退款了，但是我已经浪费了一整个下午。	Suīrán màijiā zuìhòu gěi wǒ tuìkuǎn le, dànshì wǒ yǐjīng làngfèi le yí zhěnggè xiàwǔ.	Although the shop refunded me in the end, I had already wasted a whole afternoon.
+
+// Cursor/The Group Project/Vocabulary
+学期	xuéqī	Semester (Context: 这学期最重要的项目)
+项目	xiàngmù	Project (Context: 为了最重要的项目...)
+分成	fēnchéng	To divide into (Pattern: 把 + Object + 分成 + groups) (Context: 老师把我们分成了几个四人小组。)
+小组	xiǎozǔ	Group; team
+为了	wèile	In order to; for the sake of (Grammar: goes at the front of the sentence)
+不但	búdàn	Not only (Grammar: pairs with 还/而且) (Context: 不但不帮忙，还经常迟到。)
+帮忙	bāngmáng	To help; to lend a hand
+迟到	chídào	To be late; to arrive late
+同学	tóngxué	Classmate (Note: 同学 = classmate; 同事 = coworker)
+截止日期	jiézhǐ rìqī	Deadline
+越来越	yuèláiyuè	More and more (Context: 截止日期越来越近，我也越来越担心。)
+担心	dānxīn	Worried; to worry
+只好	zhǐhǎo	To have no choice but to (Context: 最后我只好熬夜...)
+熬夜	áoyè	To stay up late
+部分	bùfen	Part; portion (Context: 把他的部分也完成了。)
+完成	wánchéng	To complete; to finish
+过程	guòchéng	Process (Context: 虽然过程很辛苦...)
+辛苦	xīnkǔ	Tiring; hard; laborious
+竟然	jìngrán	Unexpectedly (mid-sentence adverb)
+得到	dédào	To obtain; to get (Context: 项目竟然得到了最高分。)
+最高分	zuìgāo fēn	The highest score
+
+// Cursor/The Group Project/Master Sentences
+这学期，为了最重要的项目，老师把我们分成了几个四人小组。	Zhè xuéqī, wèile zuì zhòngyào de xiàngmù, lǎoshī bǎ wǒmen fēnchéng le jǐ gè sì rén xiǎozǔ.	For this semester's most important project, the teacher divided us into groups of four.
+开始的时候，有一个同学不但不帮忙，还经常迟到。	Kāishǐ de shíhou, yǒu yí gè tóngxué búdàn bù bāngmáng, hái jīngcháng chídào.	At the beginning, one classmate not only didn't help, but also often showed up late.
+截止日期越来越近，我也越来越担心。	Jiézhǐ rìqī yuèláiyuè jìn, wǒ yě yuèláiyuè dānxīn.	As the deadline got closer and closer, I became more and more worried.
+最后，我只好熬夜把他的部分也完成了。	Zuìhòu, wǒ zhǐhǎo áoyè bǎ tā de bùfen yě wánchéng le.	In the end, I had no choice but to stay up late and finish his part too.
+虽然过程很辛苦，但是我们的项目竟然得到了最高分。	Suīrán guòchéng hěn xīnkǔ, dànshì wǒmen de xiàngmù jìngrán dédào le zuìgāo fēn.	Although the process was exhausting, our project unexpectedly got the highest score.
