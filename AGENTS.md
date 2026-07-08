@@ -87,8 +87,9 @@ Output the final curated vocabulary and sentences as a **Tab-Separated Value (TS
 ### 3. Pleco Syntax & File Architecture (`pleco_cards.txt`)
 #### Folder Structuring Rules:
 * Use `// ` followed by the category path.
-* Separate nested folders with a forward slash. Use this exact structure: `// Cursor/Name of the Scenario/Subfolder`
-* For every scenario, organize the data into two distinct subfolders: `Vocabulary` and `Master Sentences`.
+* Separate nested folders with a forward slash. Use this **type-first** structure: `// HSK4/Type/Name of the Scenario`, where `Type` is either `Vocabulary` or `Master Sentences`.
+* This means all vocabulary lives under `HSK4/Vocabulary/<Scenario>` and all sentences under `HSK4/Master Sentences/<Scenario>`. Rationale: the learner reviews **all vocab first, then all sentences**, so grouping by type lets them select `HSK4/Vocabulary` (everything) or `HSK4/Master Sentences` (everything) in one click, while the per-scenario subfolders still allow drilling a single scenario.
+* When adding a new scenario, append its `HSK4/Vocabulary/<Scenario>` block to the vocabulary group and its `HSK4/Master Sentences/<Scenario>` block to the sentences group — keep the two groups contiguous; do not revert to a scenario-first layout.
 
 #### Flashcard Format Rules (Strict TSV):
 * **Vocabulary Cards:** `Hanzi	Pinyin	Definition (Context/Example Sentence)`

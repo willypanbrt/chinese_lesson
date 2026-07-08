@@ -1,4 +1,4 @@
-// Cursor/The Office Drama/Vocabulary
+// HSK4/Vocabulary/The Office Drama
 厉害	lìhai	Awesome; severe (Context: 既然你是最厉害的...)
 经历	jīnglì	To experience / past experiences (Note: Do not confuse 历 with 厉害的厉)
 简历	jiǎnlì	Resume / CV (Note: Uses 历 for history/experience)
@@ -8,14 +8,7 @@
 即使	jíshǐ	Even if; even though (Grammar: Usually pairs with 也)
 弄坏	nònghuài	To break; to ruin; to spoil
 
-// Cursor/The Office Drama/Master Sentences
-昨天在公司，老板派给我一个非常关键的任务。	Zuótiān zài gōngsī, lǎobǎn pàigěi wǒ yí gè fēicháng guānjiàn de rènwu.	Yesterday at the company, the boss gave me a very crucial task.
-他对我说：“既然你是最厉害的，你今天必须把工作做好。”	Tā duì wǒ shuō: “Jìrán nǐ zuì lìhai de, nǐ jīntiān bìxū bǎ gōngzuò zuò hǎo.”	He said to me: "Since you are the most awesome, you must get the work done well today."
-即使很累，我也工作到了晚上10点。	Jíshǐ hěn lèi, wǒ yě gōngzuò dào le wǎnshang shí diǎn.	Even if I was very tired, I still worked until 10 PM.
-终于，我把所有的工作都做完了。	Zhōngyú, wǒ bǎ suǒyǒu de gōngzuò dōu zuò wán le.	Finally, I finished all my work.
-今天早上，我的电脑竟然被我的同事弄坏了。	Jīntiān zǎoshang, wǒ de diànnǎo jìngrán bèi wǒ de tóngshì nòng huài le.	Unexpectedly, this morning, my computer was broken by my colleague.
-
-// Cursor/The Travel Snafu/Vocabulary
+// HSK4/Vocabulary/The Travel Snafu
 机票	jīpiào	Plane ticket
 护照	hùzhào	Passport
 参加	cānjiā	To attend; to participate in
@@ -27,14 +20,7 @@
 毁	huǐ	To ruin; to destroy
 错误	cuòwù	Mistake; error
 
-// Cursor/The Travel Snafu/Master Sentences
-下周我要飞到北京去参加一个非常重要的会议。	Xià zhōu wǒ yào fēi dào Běijīng qù cānjiā yí gè fēicháng zhòngyào de huìyì.	Next week I am going to fly to Beijing to attend a very important meeting.
-不管机票多贵，我都必须买。	Bùguǎn jīpiào duō guì, wǒ dōu bìxū mǎi.	No matter how expensive the ticket is, I always must buy it.
-但是今天早上，我竟然把护照弄丢了！	Dànshì jīntiān zǎoshang, wǒ jìngrán bǎ hùzhào nòng diū le!	But this morning, I unexpectedly lost my passport!
-我肯定把护照忘在家里了。	Wǒ kěndìng bǎ hùzhào wàng zài jiā lǐ le.	I definitely left the passport at home.
-我的计划被这个错误完全毁了。	Wǒ de jìhuà bèi zhège cuòwù wánquán huǐ le.	My plans were completely ruined by this mistake.
-
-// Cursor/The Bad Roommate/Vocabulary
+// HSK4/Vocabulary/The Bad Roommate
 公寓	gōngyù	Apartment
 室友	shìyǒu	Roommate
 脏	zāng	Dirty
@@ -45,14 +31,7 @@
 尊重	zūnzhòng	To respect
 搬出去	bānchūqù	To move out
 
-// Cursor/The Bad Roommate/Master Sentences
-我已经在这个公寓住了两年了。	Wǒ yǐjīng zài zhège gōngyù zhù le liǎng nián le.	I have already lived in this apartment for two years.
-我的室友总是把脏盘子留在客厅里。	Wǒ de shìyǒu zǒngshì bǎ zāng pánzi liú zài kètīng lǐ.	My roommate always leaves dirty dishes in the living room.
-昨天，我最喜欢的牛奶被他喝光了。	Zuótiān, wǒ zuì xǐhuan de niúnǎi bèi tā hē guāng le.	Yesterday, my favorite milk was completely drunk by him.
-既然他不尊重我，我就决定下个月搬出去。	Jìrán tā bù zūnzhòng wǒ, wǒ jiù juédìng xià gè yuè bān chūqù.	Since he doesn't respect me, I then decided to move out next month.
-不管找新公寓多难，我都要试一试。	Bùguǎn zhǎo xīn gōngyù duō nán, wǒ dōu yào shì yi shì.	No matter how hard it is to find a new apartment, I must try.
-
-// Cursor/The Job Hunt/Vocabulary
+// HSK4/Vocabulary/The Job Hunt
 不仅	bùjǐn	Not only (Grammar: pairs with 而且) (Context: 我不仅想找一个新公寓，而且还需要找工作。)
 而且	érqiě	Moreover; and also (Grammar: pairs with 不仅)
 简历	jiǎnlì	Resume / CV (Context: 我把简历寄到那家国际公司去了。)
@@ -66,14 +45,7 @@
 机会	jīhuì	Opportunity; chance (Context: 这都是一个很好的机会。)
 公寓	gōngyù	Apartment (Context: 我不仅想找一个新公寓...)
 
-// Cursor/The Job Hunt/Master Sentences
-我不仅想找一个新公寓，而且还需要找工作。	Wǒ bùjǐn xiǎng zhǎo yí gè xīn gōngyù, érqiě hái xūyào zhǎo gōngzuò.	Not only do I want to find a new apartment, but I also need to look for a job.
-昨天，我把简历寄到那家国际公司去了。	Zuótiān, wǒ bǎ jiǎnlì jì dào nà jiā guójì gōngsī qù le.	Yesterday, I sent my resume to that international company.
-今天早上，经理竟然打电话邀请我去参加面试。	Jīntiān zǎoshang, jīnglǐ jìngrán dǎ diànhuà yāoqǐng wǒ qù cānjiā miànshì.	Unexpectedly, the manager called me this morning to invite me to an interview.
-即使我很紧张，我也必须好好准备。	Jíshǐ wǒ hěn jǐnzhāng, wǒ yě bìxū hǎohāo zhǔnbèi.	Even if I am very nervous, I still must prepare well.
-不管结果是什么，这都是一个很好的机会。	Bùguǎn jiéguǒ shì shénme, zhè dōu shì yí gè hěn hǎo de jīhuì.	No matter what the result is, this is a great opportunity.
-
-// Cursor/The Online Shopping Fail/Vocabulary
+// HSK4/Vocabulary/The Online Shopping Fail
 打折	dǎzhé	To be on sale; to give a discount (verb) (Context: 这家店在打折。)
 折扣	zhékòu	Discount (noun) (Context: 因为折扣很大，我忍不住买了很多衣服。)
 忍不住	rěnbuzhù	Can't help but; can't resist (Context: 我忍不住在网上买了很多衣服。)
@@ -90,14 +62,7 @@
 退款	tuìkuǎn	To refund; a refund (Context: 卖家最后给我退款了。)
 浪费	làngfèi	To waste (Context: 我已经浪费了一整个下午。)
 
-// Cursor/The Online Shopping Fail/Master Sentences
-上个星期，因为折扣很大，所以我忍不住在网上买了很多衣服。	Shàng gè xīngqī, yīnwèi zhékòu hěn dà, suǒyǐ wǒ rěnbuzhù zài wǎngshàng mǎi le hěn duō yīfu.	Last week, because the discount was huge, I couldn't resist buying a lot of clothes online.
-我本来以为包裹会在三天之内送到。	Wǒ běnlái yǐwéi bāoguǒ huì zài sān tiān zhī nèi sòngdào.	I originally assumed the package would be delivered within three days.
-但是，不管我查看多少次，物流状态都一直没变。	Dànshì, bùguǎn wǒ chákàn duōshǎo cì, wùliú zhuàngtài dōu yìzhí méi biàn.	But no matter how many times I checked, the delivery status never changed.
-快递员竟然把我的包裹送错了地址。	Kuàidìyuán jìngrán bǎ wǒ de bāoguǒ sòngcuò le dìzhǐ.	Unexpectedly, the courier left my package at the wrong address. (Alt: 快递员竟然把我的包裹留在了错的地址。)
-虽然卖家最后给我退款了，但是我已经浪费了一整个下午。	Suīrán màijiā zuìhòu gěi wǒ tuìkuǎn le, dànshì wǒ yǐjīng làngfèi le yí zhěnggè xiàwǔ.	Although the shop refunded me in the end, I had already wasted a whole afternoon.
-
-// Cursor/The Group Project/Vocabulary
+// HSK4/Vocabulary/The Group Project
 学期	xuéqī	Semester (Context: 这学期最重要的项目)
 项目	xiàngmù	Project (Context: 为了最重要的项目...)
 分成	fēnchéng	To divide into (Pattern: 把 + Object + 分成 + groups) (Context: 老师把我们分成了几个四人小组。)
@@ -120,14 +85,7 @@
 得到	dédào	To obtain; to get (Context: 项目竟然得到了最高分。)
 最高分	zuìgāo fēn	The highest score
 
-// Cursor/The Group Project/Master Sentences
-这学期，为了最重要的项目，老师把我们分成了几个四人小组。	Zhè xuéqī, wèile zuì zhòngyào de xiàngmù, lǎoshī bǎ wǒmen fēnchéng le jǐ gè sì rén xiǎozǔ.	For this semester's most important project, the teacher divided us into groups of four.
-开始的时候，有一个同学不但不帮忙，还经常迟到。	Kāishǐ de shíhou, yǒu yí gè tóngxué búdàn bù bāngmáng, hái jīngcháng chídào.	At the beginning, one classmate not only didn't help, but also often showed up late.
-截止日期越来越近，我也越来越担心。	Jiézhǐ rìqī yuèláiyuè jìn, wǒ yě yuèláiyuè dānxīn.	As the deadline got closer and closer, I became more and more worried.
-最后，我只好熬夜把他的部分也完成了。	Zuìhòu, wǒ zhǐhǎo áoyè bǎ tā de bùfen yě wánchéng le.	In the end, I had no choice but to stay up late and finish his part too.
-虽然过程很辛苦，但是我们的项目竟然得到了最高分。	Suīrán guòchéng hěn xīnkǔ, dànshì wǒmen de xiàngmù jìngrán dédào le zuìgāo fēn.	Although the process was exhausting, our project unexpectedly got the highest score.
-
-// Cursor/The Cooking Disaster/Vocabulary
+// HSK4/Vocabulary/The Cooking Disaster
 惊喜	jīngxǐ	(Pleasant) surprise (Pattern: 给 + someone + 一个惊喜 = to give someone a surprise; 惊喜 is a noun, not a verb)
 丰盛	fēngshèng	Lavish; sumptuous (of a meal) (Context: 做一顿丰盛的晚饭)
 顿	dùn	Measure word for meals (Context: 一顿饭)
@@ -149,7 +107,49 @@
 感动	gǎndòng	To be moved; to be touched (Context: 她被我的努力感动了。)
 努力	nǔlì	Effort; to work hard
 
-// Cursor/The Cooking Disaster/Master Sentences
+// HSK4/Master Sentences/The Office Drama
+昨天在公司，老板派给我一个非常关键的任务。	Zuótiān zài gōngsī, lǎobǎn pàigěi wǒ yí gè fēicháng guānjiàn de rènwu.	Yesterday at the company, the boss gave me a very crucial task.
+他对我说：“既然你是最厉害的，你今天必须把工作做好。”	Tā duì wǒ shuō: “Jìrán nǐ zuì lìhai de, nǐ jīntiān bìxū bǎ gōngzuò zuò hǎo.”	He said to me: "Since you are the most awesome, you must get the work done well today."
+即使很累，我也工作到了晚上10点。	Jíshǐ hěn lèi, wǒ yě gōngzuò dào le wǎnshang shí diǎn.	Even if I was very tired, I still worked until 10 PM.
+终于，我把所有的工作都做完了。	Zhōngyú, wǒ bǎ suǒyǒu de gōngzuò dōu zuò wán le.	Finally, I finished all my work.
+今天早上，我的电脑竟然被我的同事弄坏了。	Jīntiān zǎoshang, wǒ de diànnǎo jìngrán bèi wǒ de tóngshì nòng huài le.	Unexpectedly, this morning, my computer was broken by my colleague.
+
+// HSK4/Master Sentences/The Travel Snafu
+下周我要飞到北京去参加一个非常重要的会议。	Xià zhōu wǒ yào fēi dào Běijīng qù cānjiā yí gè fēicháng zhòngyào de huìyì.	Next week I am going to fly to Beijing to attend a very important meeting.
+不管机票多贵，我都必须买。	Bùguǎn jīpiào duō guì, wǒ dōu bìxū mǎi.	No matter how expensive the ticket is, I always must buy it.
+但是今天早上，我竟然把护照弄丢了！	Dànshì jīntiān zǎoshang, wǒ jìngrán bǎ hùzhào nòng diū le!	But this morning, I unexpectedly lost my passport!
+我肯定把护照忘在家里了。	Wǒ kěndìng bǎ hùzhào wàng zài jiā lǐ le.	I definitely left the passport at home.
+我的计划被这个错误完全毁了。	Wǒ de jìhuà bèi zhège cuòwù wánquán huǐ le.	My plans were completely ruined by this mistake.
+
+// HSK4/Master Sentences/The Bad Roommate
+我已经在这个公寓住了两年了。	Wǒ yǐjīng zài zhège gōngyù zhù le liǎng nián le.	I have already lived in this apartment for two years.
+我的室友总是把脏盘子留在客厅里。	Wǒ de shìyǒu zǒngshì bǎ zāng pánzi liú zài kètīng lǐ.	My roommate always leaves dirty dishes in the living room.
+昨天，我最喜欢的牛奶被他喝光了。	Zuótiān, wǒ zuì xǐhuan de niúnǎi bèi tā hē guāng le.	Yesterday, my favorite milk was completely drunk by him.
+既然他不尊重我，我就决定下个月搬出去。	Jìrán tā bù zūnzhòng wǒ, wǒ jiù juédìng xià gè yuè bān chūqù.	Since he doesn't respect me, I then decided to move out next month.
+不管找新公寓多难，我都要试一试。	Bùguǎn zhǎo xīn gōngyù duō nán, wǒ dōu yào shì yi shì.	No matter how hard it is to find a new apartment, I must try.
+
+// HSK4/Master Sentences/The Job Hunt
+我不仅想找一个新公寓，而且还需要找工作。	Wǒ bùjǐn xiǎng zhǎo yí gè xīn gōngyù, érqiě hái xūyào zhǎo gōngzuò.	Not only do I want to find a new apartment, but I also need to look for a job.
+昨天，我把简历寄到那家国际公司去了。	Zuótiān, wǒ bǎ jiǎnlì jì dào nà jiā guójì gōngsī qù le.	Yesterday, I sent my resume to that international company.
+今天早上，经理竟然打电话邀请我去参加面试。	Jīntiān zǎoshang, jīnglǐ jìngrán dǎ diànhuà yāoqǐng wǒ qù cānjiā miànshì.	Unexpectedly, the manager called me this morning to invite me to an interview.
+即使我很紧张，我也必须好好准备。	Jíshǐ wǒ hěn jǐnzhāng, wǒ yě bìxū hǎohāo zhǔnbèi.	Even if I am very nervous, I still must prepare well.
+不管结果是什么，这都是一个很好的机会。	Bùguǎn jiéguǒ shì shénme, zhè dōu shì yí gè hěn hǎo de jīhuì.	No matter what the result is, this is a great opportunity.
+
+// HSK4/Master Sentences/The Online Shopping Fail
+上个星期，因为折扣很大，所以我忍不住在网上买了很多衣服。	Shàng gè xīngqī, yīnwèi zhékòu hěn dà, suǒyǐ wǒ rěnbuzhù zài wǎngshàng mǎi le hěn duō yīfu.	Last week, because the discount was huge, I couldn't resist buying a lot of clothes online.
+我本来以为包裹会在三天之内送到。	Wǒ běnlái yǐwéi bāoguǒ huì zài sān tiān zhī nèi sòngdào.	I originally assumed the package would be delivered within three days.
+但是，不管我查看多少次，物流状态都一直没变。	Dànshì, bùguǎn wǒ chákàn duōshǎo cì, wùliú zhuàngtài dōu yìzhí méi biàn.	But no matter how many times I checked, the delivery status never changed.
+快递员竟然把我的包裹送错了地址。	Kuàidìyuán jìngrán bǎ wǒ de bāoguǒ sòngcuò le dìzhǐ.	Unexpectedly, the courier left my package at the wrong address. (Alt: 快递员竟然把我的包裹留在了错的地址。)
+虽然卖家最后给我退款了，但是我已经浪费了一整个下午。	Suīrán màijiā zuìhòu gěi wǒ tuìkuǎn le, dànshì wǒ yǐjīng làngfèi le yí zhěnggè xiàwǔ.	Although the shop refunded me in the end, I had already wasted a whole afternoon.
+
+// HSK4/Master Sentences/The Group Project
+这学期，为了最重要的项目，老师把我们分成了几个四人小组。	Zhè xuéqī, wèile zuì zhòngyào de xiàngmù, lǎoshī bǎ wǒmen fēnchéng le jǐ gè sì rén xiǎozǔ.	For this semester's most important project, the teacher divided us into groups of four.
+开始的时候，有一个同学不但不帮忙，还经常迟到。	Kāishǐ de shíhou, yǒu yí gè tóngxué búdàn bù bāngmáng, hái jīngcháng chídào.	At the beginning, one classmate not only didn't help, but also often showed up late.
+截止日期越来越近，我也越来越担心。	Jiézhǐ rìqī yuèláiyuè jìn, wǒ yě yuèláiyuè dānxīn.	As the deadline got closer and closer, I became more and more worried.
+最后，我只好熬夜把他的部分也完成了。	Zuìhòu, wǒ zhǐhǎo áoyè bǎ tā de bùfen yě wánchéng le.	In the end, I had no choice but to stay up late and finish his part too.
+虽然过程很辛苦，但是我们的项目竟然得到了最高分。	Suīrán guòchéng hěn xīnkǔ, dànshì wǒmen de xiàngmù jìngrán dédào le zuìgāo fēn.	Although the process was exhausting, our project unexpectedly got the highest score.
+
+// HSK4/Master Sentences/The Cooking Disaster
 为了给女朋友一个惊喜，我决定第一次做一顿丰盛的晚饭。	Wèile gěi nǚpéngyou yí gè jīngxǐ, wǒ juédìng dì-yī cì zuò yí dùn fēngshèng de wǎnfàn.	To surprise my girlfriend, I decided to cook a fancy dinner for the first time.
 我一打开炉子，就发现忘记买最重要的食材了。	Wǒ yī dǎkāi lúzi, jiù fāxiàn wàngjì mǎi zuì zhòngyào de shícái le.	As soon as I turned on the stove, I realized I had forgotten to buy the most important ingredient.
 我只好用别的食材代替，结果味道很奇怪。	Wǒ zhǐhǎo yòng bié de shícái dàitì, jiéguǒ wèidào hěn qíguài.	I had no choice but to substitute it with something else, and the result tasted really strange.
