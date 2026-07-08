@@ -126,3 +126,32 @@
 截止日期越来越近，我也越来越担心。	Jiézhǐ rìqī yuèláiyuè jìn, wǒ yě yuèláiyuè dānxīn.	As the deadline got closer and closer, I became more and more worried.
 最后，我只好熬夜把他的部分也完成了。	Zuìhòu, wǒ zhǐhǎo áoyè bǎ tā de bùfen yě wánchéng le.	In the end, I had no choice but to stay up late and finish his part too.
 虽然过程很辛苦，但是我们的项目竟然得到了最高分。	Suīrán guòchéng hěn xīnkǔ, dànshì wǒmen de xiàngmù jìngrán dédào le zuìgāo fēn.	Although the process was exhausting, our project unexpectedly got the highest score.
+
+// Cursor/The Cooking Disaster/Vocabulary
+惊喜	jīngxǐ	(Pleasant) surprise (Pattern: 给 + someone + 一个惊喜 = to give someone a surprise; 惊喜 is a noun, not a verb)
+丰盛	fēngshèng	Lavish; sumptuous (of a meal) (Context: 做一顿丰盛的晚饭)
+顿	dùn	Measure word for meals (Context: 一顿饭)
+炉子	lúzi	Stove
+发现	fāxiàn	To realize; to discover (Context: 一打开炉子，就发现忘记买食材了。)
+食材	shícái	(Cooking) ingredient
+代替	dàitì	To substitute; to replace (Pattern: 用 A 代替 B) (Context: 用别的食材代替)
+结果	jiéguǒ	As a result; in the end (Context: 结果味道很奇怪。)
+味道	wèidào	Taste; flavor
+奇怪	qíguài	Strange; odd
+更糟糕的是	gèng zāogāo de shì	Even worse; to make things worse
+不小心	bùxiǎoxīn	Accidentally; carelessly (Context: 我不小心把鱼烧糊了。)
+烧糊	shāo hú	To burn (food)
+厨房	chúfáng	Kitchen
+充满	chōngmǎn	To be filled with (Note: already means "filled with" — no 被 needed) (Context: 整个厨房都充满了烟。)
+烟	yān	Smoke
+幸好	xìnghǎo	Luckily; fortunately
+失败	shībài	To fail; failure
+感动	gǎndòng	To be moved; to be touched (Context: 她被我的努力感动了。)
+努力	nǔlì	Effort; to work hard
+
+// Cursor/The Cooking Disaster/Master Sentences
+为了给女朋友一个惊喜，我决定第一次做一顿丰盛的晚饭。	Wèile gěi nǚpéngyou yí gè jīngxǐ, wǒ juédìng dì-yī cì zuò yí dùn fēngshèng de wǎnfàn.	To surprise my girlfriend, I decided to cook a fancy dinner for the first time.
+我一打开炉子，就发现忘记买最重要的食材了。	Wǒ yī dǎkāi lúzi, jiù fāxiàn wàngjì mǎi zuì zhòngyào de shícái le.	As soon as I turned on the stove, I realized I had forgotten to buy the most important ingredient.
+我只好用别的食材代替，结果味道很奇怪。	Wǒ zhǐhǎo yòng bié de shícái dàitì, jiéguǒ wèidào hěn qíguài.	I had no choice but to substitute it with something else, and the result tasted really strange.
+更糟糕的是，我不小心把鱼烧糊了，整个厨房都充满了烟。	Gèng zāogāo de shì, wǒ bù xiǎoxīn bǎ yú shāo hú le, zhěnggè chúfáng dōu chōngmǎn le yān.	Even worse, I accidentally burned the fish, and the whole kitchen filled with smoke.
+幸好，虽然饭失败了，但是她还是被我的努力感动了。	Xìnghǎo, suīrán fàn shībài le, dànshì tā háishì bèi wǒ de nǔlì gǎndòng le.	Luckily, although the food was a failure, she was still moved by my effort.

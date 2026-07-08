@@ -70,3 +70,15 @@ Scenario Name: The Group Project
    最后，我只好熬夜把他的部分也完成了。
 5. Although the process was exhausting, our project unexpectedly got the highest score.
    虽然过程很辛苦，但是我们的项目竟然得到了最高分。
+
+Scenario Name: The Cooking Disaster
+1. To surprise my girlfriend, I decided to cook a fancy dinner for the first time.
+   为了给女朋友一个惊喜，我决定第一次做一顿丰盛的晚饭。
+2. As soon as I turned on the stove, I realized I had forgotten to buy the most important ingredient.
+   我一打开炉子，就发现忘记买最重要的食材了。
+3. I had no choice but to substitute it with something else, and the result tasted really strange.
+   我只好用别的食材代替，结果味道很奇怪。
+4. Even worse, I accidentally burned the fish, and the whole kitchen filled with smoke.
+   更糟糕的是，我不小心把鱼烧糊了，整个厨房都充满了烟。
+5. Luckily, although the food was a failure, she was still moved by my effort.
+   幸好，虽然饭失败了，但是她还是被我的努力感动了。
